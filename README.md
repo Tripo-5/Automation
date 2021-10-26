@@ -12,7 +12,7 @@ To begin with using this you need to be able to install Python 3.9.2
 GUIDE FOR WINDOWS USERS 
 
 Step 1
-To sign up use this link https://freebitco.in/?r=3735019
+To sign up to freebitcoin
 
 Step2 
 Download and install Python 3.9.2 depending on your system.
@@ -40,7 +40,7 @@ TO AUTOMATE THIS WITH WINDOWS YOU NEED TO USE TASK SCHEDULER A GUIDE CAN BE FOUN
 
 GUIDE FOR LINUX USERS 
 Step 1
-To sign up use this link https://freebitco.in/?r=3735019
+To sign up to freebitcoin
 
 Step 2
 go to your terminal and use the following commands
